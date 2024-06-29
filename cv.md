@@ -2,15 +2,15 @@
 
 ## Contact:
 
-Location: Sierre, the canton of Valais, Switzerland.
-Phone: +41799049371
-E-mail: kursa.alexander@gmail.com
-GitHub: https://github.com/Alexander0888
-[LinkedIn](https://www.linkedin.com/in/alexander-kursa-0a1897283/)
-Telegram: @alex70021
+- Location: Sierre, the canton of Valais, Switzerland.
+- Phone: +41799049371
+- E-mail: kursa.alexander@gmail.com
+- GitHub: https://github.com/Alexander0888
+- [LinkedIn](https://www.linkedin.com/in/alexander-kursa-0a1897283/)
+- Telegram: @alex70021
 
 ## About Me:
-Hi, I'm Oleksandr Kursa. A passionate Front-end developer based in Sierre, Switzerland.
+Hi, I'm Aleksandr Kursa. A passionate Front-end developer based in Sierre, Switzerland.
 
 ## Skills and Proficiency:
 - HTML

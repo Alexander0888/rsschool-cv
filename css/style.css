@@ -1,0 +1,138 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  min-height: 100vh;
+  background-color: #fcfcfc;
+  line-height: 1.5;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s;
+  border-bottom: 1px solid transparent;
+  
+}
+
+a:hover {
+  color: #1d6c86;
+  /* text-decoration: underline; */
+  border-bottom: 1px solid #1d6c86;
+
+}
+
+.header {
+}
+
+.container {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.containerM {
+  max-width: 1080px;
+  margin: 10px auto;
+}
+
+.top-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 50px;
+}
+
+.top-bar__logo {
+  margin: 10px;
+  height: 86px;
+}
+
+.nav {
+  margin-left: 50px;
+}
+
+.nav__list {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  font-size: 14px;
+}
+
+.nav__item {
+  margin-right: 25px;
+  transition: 0.3s;
+}
+
+.main {
+}
+
+.promo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+  border-top: 2px solid rgb(127, 126, 126);
+  border-bottom: 2px solid rgb(127, 126, 126);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.description-blocks {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  margin: 0 30px;
+  border-bottom: 2px solid rgb(127, 126, 126);
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.section {
+  padding: 10px 10px 20px 10px;
+  margin: 10px;
+  min-width: 300px;
+  max-width: 40%;
+  border-bottom: 1px solid rgb(167, 166, 166);
+}
+
+.photo {
+  height: 200px;
+}
+
+.title {
+  text-align: center;
+  line-height: 2;
+}
+
+.wave {
+  height: 25px;
+}
+
+.footer {
+  background-color: #fcfcfc;
+  height: 100px;
+}
+
+.container-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0 50px;
+}
+
+.logo-rs-school {
+  height: 80px;
+}
